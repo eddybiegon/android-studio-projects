@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="api_key">dc6a73c573ca4fefb8b76cab4c1faf96</string>
+    <string name="dish_name">Dish Name</string>
+    <string name="_2_persons">2 Persons</string>
+    <string name="todo">TODO</string>
+</resources>
